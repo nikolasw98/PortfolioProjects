@@ -1,7 +1,5 @@
 -- ****************************
--- Final project for Intro to SQL UCLA Extension course
--- ****************************
--- Create relational database designed to hold information relating to Students, Student Courses and Instructors who tutor students
+-- Created a relational database designed to hold information relating to Students, Student Courses and Instructors who tutor students
 
 
 
