@@ -1,4 +1,3 @@
-'Final program for Individual Programming Assignment #3 Pt. 2'
 userFile = input('File for upload (paste file path): ')                                                                 			# User specified vocab list file to upload
 x = len(userFile)
 filePath = userFile[1:x - 1]                                                                                            			# Removes added quotation marks from file path string
