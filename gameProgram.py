@@ -2,9 +2,9 @@
 ## Game program
 
 
-from gameClasses import Boss
-from gameFunctions import playerCheck
-from gameFunctions import createPlayers
+from gClasses import Boss
+from gFunctions import playerCheck
+from gFunctions import createPlayers
 # imports necessary game functions and classes
 
 playerlist = []                                                                                                         ## list that tracks number of players alive
